@@ -1,0 +1,4 @@
+C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.AssemblyInfo.cs
