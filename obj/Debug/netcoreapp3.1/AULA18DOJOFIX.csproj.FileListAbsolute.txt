@@ -2,3 +2,12 @@ C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.
 C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.csproj.CoreCompileInputs.cache
 C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.AssemblyInfoInputs.cache
 C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA18DOJOFIX\bin\Debug\netcoreapp3.1\AULA18DOJOFIX.exe
+C:\Users\vinicius\Documents\AULA18DOJOFIX\bin\Debug\netcoreapp3.1\AULA18DOJOFIX.deps.json
+C:\Users\vinicius\Documents\AULA18DOJOFIX\bin\Debug\netcoreapp3.1\AULA18DOJOFIX.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA18DOJOFIX\bin\Debug\netcoreapp3.1\AULA18DOJOFIX.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA18DOJOFIX\bin\Debug\netcoreapp3.1\AULA18DOJOFIX.dll
+C:\Users\vinicius\Documents\AULA18DOJOFIX\bin\Debug\netcoreapp3.1\AULA18DOJOFIX.pdb
+C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.dll
+C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.pdb
+C:\Users\vinicius\Documents\AULA18DOJOFIX\obj\Debug\netcoreapp3.1\AULA18DOJOFIX.genruntimeconfig.cache
