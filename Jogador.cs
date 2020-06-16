@@ -41,11 +41,11 @@ public string Nome {get; set;}
                 }else if(Idade >= 40 && Posicao == "Defensor"){
                     Retorno = "O Defensor pode se aposentar";
                 }else{
-                    Retorno = "O jogador não tem idade sulficiente para se aposentar";
+                    Retorno = "O jogador não tem idade suficiente para se aposentar";
                 }
                 return Retorno;
             }
-            
+
         public void MostrarDados(){
             System.Console.WriteLine($"Nome: {Nome}, Posição: {Posicao}, Nascimento: {Nascimento}");
         }        
